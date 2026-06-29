@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maxbet57.abstraction.blog/sitemap.xml
